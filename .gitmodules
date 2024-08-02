@@ -4,3 +4,6 @@
 [submodule "submodules/Odin-Landing-Page"]
 	path = submodules/Odin-Landing-Page
 	url = git@github.com:mginzburgs/Odin-Landing-Page.git
+[submodule "submodules/RockPaperScissors"]
+	path = submodules/RockPaperScissors
+	url = git@github.com:mginzburgs/RockPaperScissors.git
