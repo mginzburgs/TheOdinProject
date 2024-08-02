@@ -1,0 +1,6 @@
+[submodule "submodules/css-exercises"]
+	path = submodules/css-exercises
+	url = git@github.com:mginzburgs/css-exercises.git
+[submodule "submodules/Odin-Landing-Page"]
+	path = submodules/Odin-Landing-Page
+	url = git@github.com:mginzburgs/Odin-Landing-Page.git
