@@ -7,9 +7,6 @@
 [submodule "submodules/RockPaperScissors"]
 	path = submodules/RockPaperScissors
 	url = git@github.com:mginzburgs/RockPaperScissors.git
-[submodule "submodule/javascript-exercises"]
-	path = submodule/javascript-exercises
-	url = git@github.com:mginzburgs/javascript-exercises.git
 [submodule "submodules/javascript-exercises"]
 	path = submodules/javascript-exercises
 	url = git@github.com:mginzburgs/javascript-exercises.git
