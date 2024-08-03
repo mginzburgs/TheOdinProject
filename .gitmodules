@@ -13,3 +13,6 @@
 [submodule "submodules/javascript-exercises"]
 	path = submodules/javascript-exercises
 	url = git@github.com:mginzburgs/javascript-exercises.git
+[submodule "submodules/Etch-a-Sketch"]
+	path = submodules/Etch-a-Sketch
+	url = git@github.com:mginzburgs/Etch-a-Sketch.git
