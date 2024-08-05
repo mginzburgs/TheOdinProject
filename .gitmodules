@@ -13,3 +13,6 @@
 [submodule "submodules/Etch-a-Sketch"]
 	path = submodules/Etch-a-Sketch
 	url = git@github.com:mginzburgs/Etch-a-Sketch.git
+[submodule "submodules/TheOdinCalc"]
+	path = submodules/TheOdinCalc
+	url = git@github.com:mginzburgs/TheOdinCalc.git
