@@ -16,3 +16,6 @@
 [submodule "submodules/TheOdinCalc"]
 	path = submodules/TheOdinCalc
 	url = git@github.com:mginzburgs/TheOdinCalc.git
+[submodule "submodules/Sign-up-Form"]
+	path = submodules/Sign-up-Form
+	url = git@github.com:mginzburgs/Sign-up-Form.git
