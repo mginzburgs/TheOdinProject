@@ -19,3 +19,6 @@
 [submodule "submodules/Sign-up-Form"]
 	path = submodules/Sign-up-Form
 	url = git@github.com:mginzburgs/Sign-up-Form.git
+[submodule "submodules/Project-Admin-Dashboard"]
+	path = submodules/Project-Admin-Dashboard
+	url = git@github.com:mginzburgs/Project-Admin-Dashboard.git
