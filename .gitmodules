@@ -22,3 +22,6 @@
 [submodule "submodules/Project-Admin-Dashboard"]
 	path = submodules/Project-Admin-Dashboard
 	url = git@github.com:mginzburgs/Project-Admin-Dashboard.git
+[submodule "submodules/TheOdin-Tic-tac-toe"]
+	path = submodules/TheOdin-Tic-tac-toe
+	url = git@github.com:mginzburgs/TheOdin-Tic-tac-toe.git
