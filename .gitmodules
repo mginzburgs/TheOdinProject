@@ -25,3 +25,9 @@
 [submodule "submodules/TheOdin-Tic-tac-toe"]
 	path = submodules/TheOdin-Tic-tac-toe
 	url = git@github.com:mginzburgs/TheOdin-Tic-tac-toe.git
+[submodule "submodules/TheOdin-Project-Library"]
+	path = submodules/TheOdin-Project-Library
+	url = git@github.com:mginzburgs/TheOdin-Project-Library.git
+[submodule "submodules/TheOdin-Restaurant-Page"]
+	path = submodules/TheOdin-Restaurant-Page
+	url = git@github.com:mginzburgs/TheOdin-Restaurant-Page.git
