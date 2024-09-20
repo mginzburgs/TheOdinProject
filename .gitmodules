@@ -31,3 +31,9 @@
 [submodule "submodules/TheOdin-Restaurant-Page"]
 	path = submodules/TheOdin-Restaurant-Page
 	url = git@github.com:mginzburgs/TheOdin-Restaurant-Page.git
+[submodule "submodules/The-OdinProject-Todo-List"]
+	path = submodules/The-OdinProject-Todo-List
+	url = git@github.com:mginzburgs/The-OdinProject-Todo-List.git
+[submodule "submodules/OP-JS-Form-Validation"]
+	path = submodules/OP-JS-Form-Validation
+	url = ./submodules/OP-JS-Form-Validation/
