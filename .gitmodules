@@ -40,3 +40,9 @@
 [submodule "submodules/OP-JS-Weather-App"]
 	path = submodules/OP-JS-Weather-App
 	url = git@github.com:mginzburgs/OP-JS-Weather-App.git
+[submodule "submodules/TheOdin-PromiseAndFetch"]
+    path = submodules/TheOdin-PromiseAndFetch
+    url = ./submodules/TheOdin-PromiseAndFetch
+[submodule "submodules/webpack-practice"]
+    path = submodules/webpack-practice
+    url = ./submodules/webpack-practice
