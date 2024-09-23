@@ -37,3 +37,6 @@
 [submodule "submodules/OP-JS-Form-Validation"]
 	path = submodules/OP-JS-Form-Validation
 	url = ./submodules/OP-JS-Form-Validation/
+[submodule "submodules/OP-JS-Weather-App"]
+	path = submodules/OP-JS-Weather-App
+	url = git@github.com:mginzburgs/OP-JS-Weather-App.git
