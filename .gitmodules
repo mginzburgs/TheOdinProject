@@ -46,3 +46,6 @@
 [submodule "submodules/webpack-practice"]
     path = submodules/webpack-practice
     url = ./submodules/webpack-practice
+[submodule "submodules/OP-JS-Recursion"]
+    path = submodules/OP-JS-Recursion
+    url = git@github.com:mginzburgs/OP-JS-Recursion.git
