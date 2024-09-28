@@ -49,3 +49,6 @@
 [submodule "submodules/OP-JS-Recursion"]
     path = submodules/OP-JS-Recursion
     url = git@github.com:mginzburgs/OP-JS-Recursion.git
+[submodule "submodules/OP-JS-HashMap"]
+	path = submodules/OP-JS-HashMap
+	url = ../submodules/OP-JS-HashMap
