@@ -52,3 +52,6 @@
 [submodule "submodules/OP-JS-HashMap"]
 	path = submodules/OP-JS-HashMap
 	url = ../submodules/OP-JS-HashMap
+[submodule "submodules/OP-CSS-Homepage"]
+	path = submodules/OP-CSS-Homepage
+	url = git@github.com:mginzburgs/OP-CSS-Homepage.git
